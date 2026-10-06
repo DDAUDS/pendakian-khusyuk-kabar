@@ -1,15 +1,15 @@
 {
-  "versi_terbaru": "0.9.0",
-  "kode_terbaru": 10,
+  "versi_terbaru": "0.10.0",
+  "kode_terbaru": 11,
   "unduh": {
     "langsung": "https://github.com/DDAUDS/pendakian-khusyuk-kabar/releases/latest",
     "play": "https://play.google.com/store/apps/details?id=id.pusakanegeri.pendakiankhusyuk"
   },
   "catatan": {
-    "id": "Bacaan shalat lintas mazhab, keutamaan shalat sunnah, muhasabah susulan 7 hari, dan menu Masukan.",
-    "su": "Bacaan shalat lintas mazhab, kautamaan shalat sunnah, muhasabah susulan 7 dinten, sareng ménu Masukan.",
-    "jv": "Waosan shalat lintas mazhab, kautamaning shalat sunnah, muhasabah susulan 7 dinten, saha menu Pamrayogi.",
-    "en": "Prayer recitations across madhhabs, virtues of sunnah prayers, 7-day catch-up reflections, and a Feedback menu."
+    "id": "Menu ditata ulang (Fitur utama, Fitur tambahan, Fitur pendukung), tata cara Shalat Jenazah dan Shalat Gerhana lintas mazhab, Dzikir & doa setelah shalat, dan kotak muhasabah yang lebih ringkas.",
+    "su": "Ménu ditata deui (Fitur utama, Fitur tambihan, Fitur pangrojong), tata cara Shalat Jenazah sareng Shalat Samagaha lintas mazhab, Dzikir & du'a saba'da shalat, sareng kotak muhasabah anu langkung ringkes.",
+    "jv": "Menu dipuntata malih (Fitur utami, Fitur tambahan, Fitur panyengkuyung), tata cara Shalat Jenazah saha Shalat Grahana lintas mazhab, Dzikir & donga sasampunipun shalat, saha kothak muhasabah ingkang langkung ringkes.",
+    "en": "Reorganised menu (Main, Additional and Supporting features), funeral and eclipse prayer methods across the schools, after-prayer dhikr & supplications, and a more compact muhasabah box."
   },
   "pesan": []
 }
