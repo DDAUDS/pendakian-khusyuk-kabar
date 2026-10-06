@@ -26,6 +26,10 @@ Tambahkan butir ke `pesan`:
 
 (Hapus komentar `// …` — JSON tidak mengizinkan komentar.)
 
-## Unduhan APK
-`unduh.langsung` menunjuk ke halaman **Releases** repositori ini. Setiap versi baru,
-unggah `app-release.apk` (hasil Actions) sebagai lampiran rilis baru.
+## Unduhan APK dan versi baru
+Diterbitkan otomatis dari repo aplikasi: **Actions → Bangun APK → Run workflow → centang
+"Terbitkan"**. Langkah itu mengunggah `pendakian-khusyuk-v<versi>.apk` ke **Releases**
+repositori ini, lalu memperbarui `versi_terbaru`, `kode_terbaru`, dan `catatan` di
+`kabar.json` (bagian `pesan` tidak disentuh). `unduh.langsung` menunjuk ke rilis terbaru.
+
+Pengumuman (`pesan`) tetap diisi dengan menyunting `kabar.json` langsung di sini.
