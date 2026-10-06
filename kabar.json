@@ -1,0 +1,15 @@
+{
+  "versi_terbaru": "0.9.0",
+  "kode_terbaru": 10,
+  "unduh": {
+    "langsung": "https://github.com/DDAUDS/pendakian-khusyuk-kabar/releases/latest",
+    "play": "https://play.google.com/store/apps/details?id=id.pusakanegeri.pendakiankhusyuk"
+  },
+  "catatan": {
+    "id": "Bacaan shalat lintas mazhab, keutamaan shalat sunnah, muhasabah susulan 7 hari, dan menu Masukan.",
+    "su": "Bacaan shalat lintas mazhab, kautamaan shalat sunnah, muhasabah susulan 7 dinten, sareng ménu Masukan.",
+    "jv": "Waosan shalat lintas mazhab, kautamaning shalat sunnah, muhasabah susulan 7 dinten, saha menu Pamrayogi.",
+    "en": "Prayer recitations across madhhabs, virtues of sunnah prayers, 7-day catch-up reflections, and a Feedback menu."
+  },
+  "pesan": []
+}
